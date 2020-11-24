@@ -1,0 +1,9 @@
+main.c:68:6:HAL_UART_RxCpltCallback	16	static
+main.c:81:5:main	88	static
+main.c:168:6:SystemClock_Config	88	static
+main.c:211:13:MX_UART4_Init	8	static
+main.c:244:13:MX_GPIO_Init	40	static
+main.c:283:6:StartDefaultTask	16	static
+main.c:302:6:StartUartProcess	16	static
+main.c:325:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:342:6:Error_Handler	4	static
